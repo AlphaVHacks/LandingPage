@@ -40,7 +40,7 @@ export default class Profile extends Component {
             Logout
           </button>
         </p>
-        <h5>This is where the the button to vote will go</h5>
+        <h5>This is where a the button will go</h5>
       </div> : null
     );
   }
