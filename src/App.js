@@ -3,8 +3,8 @@ import Logo from "../src/assets/images/logo.jpg";
 
 function App() {
   return (
-    <div className="App" style={{ width: "120px", height: "600px" }}>
-      <img src={Logo} />
+    <div className="App">
+      <img src={Logo} style={{ width: "400px", height: "120px" }} />
     </div>
   );
 }
