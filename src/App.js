@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <img
         src={Logo}
-        style={{ width: "350px", height: "120px", paddingLeft: "100px" }}
+        style={{ width: "350px", height: "120px", paddingLeft: "50px" }}
         alt=""
       />
     </div>
