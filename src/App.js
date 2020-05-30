@@ -1,9 +1,10 @@
 import React from "react";
+import Logo from "../src/assets/images/logo.jpg";
 
 function App() {
   return (
     <div className="App">
-      <h1></h1>
+      <img src={Logo} />
     </div>
   );
 }
